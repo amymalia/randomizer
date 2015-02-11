@@ -28,8 +28,7 @@ public class Randomizer {
 
   /**
    * This method computes a pseudo-random number between 0 and 1 using a very
-   * simple algorithm.  Math.random() and java.util.Random are actually a lot
-   * better at computing randomness.
+   * simple algorithm.
    * @return a random float
    */
   public float randomFloat() {
